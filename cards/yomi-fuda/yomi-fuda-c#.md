@@ -1,5 +1,6 @@
 # C# (シーシャープ)
-Microsoft が開発したプログラミング言語。 
-.Net Framework とともに作られた言語であり Windows 向けのアプリケーションを作るのがとても得意。 
-C++ をもう一度インクリメントする意味で ++ が縦に並び C# となった。実は公式で使われている記号は「♯(シャープ)」ではなく「#(ナンバー)」。 
-コンパイラには Roslyn、Mono、などが存在する。 
+Microsoft が開発したプログラミング言語。  
+.Net Framework とともに作られた言語であり Windows 向けのアプリケーションを作るのがとても得意。  
+C++ をもう一度インクリメントする意味で ++ が縦に並び C# となった。実は公式で使われている記号は「♯(シャープ)」ではなく「#(ナンバー)」。  
+コンパイラには Roslyn、Mono、などが存在する。  
+公式サイト : [https://docs.microsoft.com/ja-jp/dotnet/csharp/csharp](https://docs.microsoft.com/ja-jp/dotnet/csharp/csharp)
