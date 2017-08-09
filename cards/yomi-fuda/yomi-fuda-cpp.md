@@ -5,5 +5,5 @@ C言語同様、機械からゲームまでなんでもこなせるスーパー�
 ただし、軽い気持ちで触ると大やけどをするので注意。  
 深淵を覗くがごとく、極めようとしても底の見えない言語である。  
 コンパイラには GCC、Clang、Visual C++、C++ Builderなどが存在する。  
-*1 : [http://www.wdic.org/w/TECH/C%2B%2B](http://www.wdic.org/w/TECH/C%2B%2B)
-
+*1 : [http://www.wdic.org/w/TECH/C%2B%2B](http://www.wdic.org/w/TECH/C%2B%2B)  
+公式サイト : [https://isocpp.org/](https://isocpp.org/)
